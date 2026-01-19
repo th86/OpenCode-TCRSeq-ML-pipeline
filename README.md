@@ -2,6 +2,8 @@
 
 A comprehensive pipeline for analyzing TCR-seq data and classifying samples into control vs diseased conditions using clone identification, motif discovery, and machine learning.
 
+This codebase was generated, tested, and debugged by [OpenCode](https://opencode.ai/). 
+
 ## Features
 
 - **Data Preprocessing**: Handles multiple TCR-seq file formats with quality control
