@@ -1,0 +1,10 @@
+,test_accuracy,test_f1,test_auc,cv_mean,cv_std
+random_forest,1.0,1.0,1.0,,
+gradient_boosting,1.0,1.0,1.0,,
+svm,1.0,1.0,0.0,,
+logistic_regression,1.0,1.0,1.0,,
+decision_tree,0.5,0.0,0.5,,
+naive_bayes,0.5,0.6666666666666666,0.5,,
+ada_boost,0.5,0.0,0.5,,
+ridge,1.0,1.0,,,
+mlp,1.0,1.0,1.0,,

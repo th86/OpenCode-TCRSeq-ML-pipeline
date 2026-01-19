@@ -1,0 +1,7 @@
+sample_name,condition,n_kmer_motifs,unique_kmer_ratio,top_kmer_1_freq,top_kmer_2_freq,top_kmer_3_freq,top_kmer_4_freq,top_kmer_5_freq,n_position_motifs,max_cdr3_length,position_diversity,n_physicochemical_motifs,unique_physicochemical_patterns,n_topic_motifs,vocabulary_size,n_consensus_motifs,n_clusters,n_differential_motifs,diseased_enriched_motifs,control_enriched_motifs
+control_rep2_01,control,50,0.013766694685719623,69,53,53,53,51,1,20,1.0,30,1612,0,0,9,10,45,0,45
+diseased_rep2_01,diseased,50,0.012406610821824768,49,46,38,37,37,1,20,1.0,30,1374,0,0,4,10,3,3,0
+diseased_rep1_01,diseased,50,0.011614163112184593,51,38,36,36,35,1,20,1.0,30,1231,0,0,9,10,3,3,0
+control_rep1_01,control,50,0.016053904138813826,61,56,55,54,54,1,20,1.0,30,1645,0,0,9,10,44,0,44
+diseased_rep3_01,diseased,50,0.01026069984664715,43,37,35,34,34,1,20,1.0,30,1152,0,0,9,10,3,3,0
+control_rep3_01,control,50,0.016029957625726766,74,70,62,57,56,1,20,1.0,30,1797,0,0,7,10,42,0,42

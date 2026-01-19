@@ -1,0 +1,4063 @@
+{
+  "control_rep2_01": {
+    "kmer_motifs": {
+      "motifs": [
+        {
+          "sequence": "CCC",
+          "count": 69
+        },
+        {
+          "sequence": "YNE",
+          "count": 53
+        },
+        {
+          "sequence": "NEQ",
+          "count": 53
+        },
+        {
+          "sequence": "YNEQ",
+          "count": 53
+        },
+        {
+          "sequence": "SGG",
+          "count": 51
+        },
+        {
+          "sequence": "GEL",
+          "count": 48
+        },
+        {
+          "sequence": "QET",
+          "count": 46
+        },
+        {
+          "sequence": "ETQ",
+          "count": 45
+        },
+        {
+          "sequence": "QETQ",
+          "count": 45
+        },
+        {
+          "sequence": "TDT",
+          "count": 45
+        },
+        {
+          "sequence": "VAG",
+          "count": 43
+        },
+        {
+          "sequence": "CCT",
+          "count": 37
+        },
+        {
+          "sequence": "ASS",
+          "count": 36
+        },
+        {
+          "sequence": "CCS",
+          "count": 35
+        },
+        {
+          "sequence": "CCA",
+          "count": 34
+        },
+        {
+          "sequence": "CAC",
+          "count": 31
+        },
+        {
+          "sequence": "CGC",
+          "count": 31
+        },
+        {
+          "sequence": "CCG",
+          "count": 29
+        },
+        {
+          "sequence": "CLC",
+          "count": 29
+        },
+        {
+          "sequence": "CSC",
+          "count": 27
+        },
+        {
+          "sequence": "CCY",
+          "count": 25
+        },
+        {
+          "sequence": "CCI",
+          "count": 22
+        },
+        {
+          "sequence": "CSG",
+          "count": 22
+        },
+        {
+          "sequence": "CCV",
+          "count": 22
+        },
+        {
+          "sequence": "LCC",
+          "count": 21
+        },
+        {
+          "sequence": "CGL",
+          "count": 21
+        },
+        {
+          "sequence": "CCL",
+          "count": 21
+        },
+        {
+          "sequence": "CIA",
+          "count": 21
+        },
+        {
+          "sequence": "CTC",
+          "count": 19
+        },
+        {
+          "sequence": "CTL",
+          "count": 19
+        },
+        {
+          "sequence": "CYC",
+          "count": 19
+        },
+        {
+          "sequence": "CIC",
+          "count": 19
+        },
+        {
+          "sequence": "CVA",
+          "count": 19
+        },
+        {
+          "sequence": "CCR",
+          "count": 18
+        },
+        {
+          "sequence": "FCC",
+          "count": 18
+        },
+        {
+          "sequence": "CVC",
+          "count": 18
+        },
+        {
+          "sequence": "VCC",
+          "count": 18
+        },
+        {
+          "sequence": "CYL",
+          "count": 18
+        },
+        {
+          "sequence": "CCF",
+          "count": 18
+        },
+        {
+          "sequence": "CYA",
+          "count": 17
+        },
+        {
+          "sequence": "CGE",
+          "count": 17
+        },
+        {
+          "sequence": "CRC",
+          "count": 17
+        },
+        {
+          "sequence": "CCK",
+          "count": 17
+        },
+        {
+          "sequence": "CAS",
+          "count": 17
+        },
+        {
+          "sequence": "CSA",
+          "count": 16
+        },
+        {
+          "sequence": "CTD",
+          "count": 16
+        },
+        {
+          "sequence": "GGC",
+          "count": 16
+        },
+        {
+          "sequence": "CCQ",
+          "count": 15
+        },
+        {
+          "sequence": "TCC",
+          "count": 15
+        },
+        {
+          "sequence": "QCC",
+          "count": 15
+        }
+      ],
+      "total_kmers": 53535,
+      "unique_kmers": 737
+    },
+    "position_motifs": {
+      "motifs": [
+        {
+          "position": 0,
+          "amino_acid": "C",
+          "frequency": 1.0,
+          "count": 1100
+        }
+      ],
+      "max_length": 20,
+      "positions_analyzed": 20
+    },
+    "physicochemical_motifs": {
+      "motifs": [
+        {
+          "pattern": "PPP",
+          "count": 1963
+        },
+        {
+          "pattern": "PPH",
+          "count": 1481
+        },
+        {
+          "pattern": "PHP",
+          "count": 1417
+        },
+        {
+          "pattern": "HPP",
+          "count": 1262
+        },
+        {
+          "pattern": "PHH",
+          "count": 1099
+        },
+        {
+          "pattern": "HHP",
+          "count": 973
+        },
+        {
+          "pattern": "PPPP",
+          "count": 970
+        },
+        {
+          "pattern": "HPH",
+          "count": 867
+        },
+        {
+          "pattern": "HHH",
+          "count": 710
+        },
+        {
+          "pattern": "PPHP",
+          "count": 700
+        },
+        {
+          "pattern": "PHPP",
+          "count": 672
+        },
+        {
+          "pattern": "PPPH",
+          "count": 662
+        },
+        {
+          "pattern": "HPPP",
+          "count": 567
+        },
+        {
+          "pattern": "PPHH",
+          "count": 547
+        },
+        {
+          "pattern": "PHHP",
+          "count": 545
+        },
+        {
+          "pattern": "PPPPP",
+          "count": 490
+        },
+        {
+          "pattern": "HHPP",
+          "count": 465
+        },
+        {
+          "pattern": "PHPH",
+          "count": 463
+        },
+        {
+          "pattern": "HPPH",
+          "count": 433
+        },
+        {
+          "pattern": "HPHP",
+          "count": 385
+        },
+        {
+          "pattern": "PNP",
+          "count": 384
+        },
+        {
+          "pattern": "PHHH",
+          "count": 370
+        },
+        {
+          "pattern": "PPN",
+          "count": 347
+        },
+        {
+          "pattern": "HHHP",
+          "count": 338
+        },
+        {
+          "pattern": "PPHPP",
+          "count": 326
+        },
+        {
+          "pattern": "PPPHP",
+          "count": 318
+        },
+        {
+          "pattern": "HHPH",
+          "count": 317
+        },
+        {
+          "pattern": "HPHH",
+          "count": 308
+        },
+        {
+          "pattern": "PPPPH",
+          "count": 306
+        },
+        {
+          "pattern": "PHPPP",
+          "count": 305
+        }
+      ],
+      "unique_patterns": 1612
+    },
+    "topic_motifs": {
+      "motifs": [],
+      "method": "lda",
+      "error": "'list' object has no attribute 'tolist'"
+    },
+    "consensus_motifs": {
+      "motifs": [
+        {
+          "cluster_id": 1,
+          "consensus": "CXXXXXXXXXXXXXXXXXXX",
+          "size": 48,
+          "sequences": [
+            "CNLNSCTSGGGGFCRC",
+            "CCSSGGPQANSET",
+            "CTCGSNLCSGGAN",
+            "CTHYVHATSVQSGGCLAMYT",
+            "CLCSKCFSGGTY"
+          ]
+        },
+        {
+          "cluster_id": 2,
+          "consensus": "CXXXXXXXXXXXXXXLC",
+          "size": 4,
+          "sequences": [
+            "CSPVAGTVCVIC",
+            "CYLLWGSVAGTF",
+            "CSVAGTFGNVCPCKK",
+            "CIVQVTLIFLQVAGTLC"
+          ]
+        },
+        {
+          "cluster_id": 3,
+          "consensus": "CXXXXXXXXXXXXXXXXXXX",
+          "size": 18,
+          "sequences": [
+            "CCILCIKDAVCDIEFFE",
+            "CLNSARLGAEACGCGLAVCD",
+            "CCYSTCIAVCLRRSAAHS",
+            "CIGCWEQAYAVCGYN",
+            "CKVRETLPAVCYHTCD"
+          ]
+        },
+        {
+          "cluster_id": 4,
+          "consensus": "CXXXXXXXXXXXXXXXXXXX",
+          "size": 44,
+          "sequences": [
+            "CKDYNEQTTGGIICYACN",
+            "CRSCLHIGIGASVTYNEQGD",
+            "CCFAFYNEQVKYIYG",
+            "CGVYNEQCCWYR",
+            "CDCCRINYNEQAGSGGCGF"
+          ]
+        },
+        {
+          "cluster_id": 5,
+          "consensus": "CCCXXXXXXXXXXXXXXXXX",
+          "size": 58,
+          "sequences": [
+            "CCCCSFTIHCQCYC",
+            "CADDCSFCCCCIASEILY",
+            "CFSIAISLCGAYDCCCLYC",
+            "CTCCCNSYPFITPRVHVG",
+            "CCTCHEACCCTGC"
+          ]
+        },
+        {
+          "cluster_id": 6,
+          "consensus": "CYCXXXXXXXXXXXXXXXCV",
+          "size": 15,
+          "sequences": [
+            "CYCNCFYIKQKWAG",
+            "CYCWINCTVWMDCAMIM",
+            "CGMQGTCWLIKTCYCM",
+            "CSTYCIRFCYCC",
+            "CYCCCFTRDCTPDCEKS"
+          ]
+        },
+        {
+          "cluster_id": 7,
+          "consensus": "CXXXXXXXXXXXXXXXXXXX",
+          "size": 858,
+          "sequences": [
+            "CGYYSDTKLMKK",
+            "CEKNYMTCIQSRL",
+            "CGAKKSDIFGCEALR",
+            "CLLCCTCYTGYF",
+            "CCAGCCDVFLYIMCGL"
+          ]
+        },
+        {
+          "cluster_id": 8,
+          "consensus": "CXXXXXXXXXXXXXXXXXXX",
+          "size": 45,
+          "sequences": [
+            "CQVFRTDMCCQETQLTIS",
+            "CGQETQMSYCCLGQYL",
+            "CSQETQCFP",
+            "CFWYWKLNVQETQTQ",
+            "CLCAHIATYATFSYQETQRV"
+          ]
+        },
+        {
+          "cluster_id": 9,
+          "consensus": "CXXXXXXXXXXXXXXXXXXX",
+          "size": 9,
+          "sequences": [
+            "CAAFECNQPYNEQICK",
+            "CYACVYQKYNEQIVPQCC",
+            "CCYNEQILHSCLSYGCEYYC",
+            "CQYAEYNEQICGPC",
+            "CELPGQDYNEQIMYCIAGFR"
+          ]
+        }
+      ],
+      "method": "consensus",
+      "n_clusters": 10
+    }
+  },
+  "diseased_rep2_01": {
+    "kmer_motifs": {
+      "motifs": [
+        {
+          "sequence": "TDT",
+          "count": 49
+        },
+        {
+          "sequence": "GEL",
+          "count": 46
+        },
+        {
+          "sequence": "SGG",
+          "count": 38
+        },
+        {
+          "sequence": "QET",
+          "count": 37
+        },
+        {
+          "sequence": "ETQ",
+          "count": 37
+        },
+        {
+          "sequence": "VAG",
+          "count": 37
+        },
+        {
+          "sequence": "ASS",
+          "count": 36
+        },
+        {
+          "sequence": "CCC",
+          "count": 34
+        },
+        {
+          "sequence": "NEQ",
+          "count": 34
+        },
+        {
+          "sequence": "QETQ",
+          "count": 34
+        },
+        {
+          "sequence": "YNE",
+          "count": 33
+        },
+        {
+          "sequence": "YNEQ",
+          "count": 33
+        },
+        {
+          "sequence": "CCY",
+          "count": 27
+        },
+        {
+          "sequence": "CSC",
+          "count": 27
+        },
+        {
+          "sequence": "CCA",
+          "count": 25
+        },
+        {
+          "sequence": "CCG",
+          "count": 21
+        },
+        {
+          "sequence": "CFC",
+          "count": 21
+        },
+        {
+          "sequence": "CLC",
+          "count": 21
+        },
+        {
+          "sequence": "CAL",
+          "count": 20
+        },
+        {
+          "sequence": "CCT",
+          "count": 20
+        },
+        {
+          "sequence": "CCF",
+          "count": 19
+        },
+        {
+          "sequence": "AGC",
+          "count": 19
+        },
+        {
+          "sequence": "CGC",
+          "count": 19
+        },
+        {
+          "sequence": "CYC",
+          "count": 18
+        },
+        {
+          "sequence": "CSG",
+          "count": 17
+        },
+        {
+          "sequence": "SCC",
+          "count": 17
+        },
+        {
+          "sequence": "CAA",
+          "count": 17
+        },
+        {
+          "sequence": "SSC",
+          "count": 17
+        },
+        {
+          "sequence": "CCS",
+          "count": 16
+        },
+        {
+          "sequence": "CEC",
+          "count": 16
+        },
+        {
+          "sequence": "CSL",
+          "count": 16
+        },
+        {
+          "sequence": "CAC",
+          "count": 16
+        },
+        {
+          "sequence": "CIC",
+          "count": 16
+        },
+        {
+          "sequence": "CNC",
+          "count": 15
+        },
+        {
+          "sequence": "CCI",
+          "count": 15
+        },
+        {
+          "sequence": "CLV",
+          "count": 15
+        },
+        {
+          "sequence": "CCV",
+          "count": 15
+        },
+        {
+          "sequence": "CTG",
+          "count": 15
+        },
+        {
+          "sequence": "CVC",
+          "count": 15
+        },
+        {
+          "sequence": "CKC",
+          "count": 14
+        },
+        {
+          "sequence": "ICC",
+          "count": 14
+        },
+        {
+          "sequence": "CGE",
+          "count": 14
+        },
+        {
+          "sequence": "CIG",
+          "count": 14
+        },
+        {
+          "sequence": "CCL",
+          "count": 14
+        },
+        {
+          "sequence": "CTS",
+          "count": 14
+        },
+        {
+          "sequence": "CTL",
+          "count": 14
+        },
+        {
+          "sequence": "ACC",
+          "count": 13
+        },
+        {
+          "sequence": "ACL",
+          "count": 13
+        },
+        {
+          "sequence": "CLA",
+          "count": 13
+        },
+        {
+          "sequence": "CAQ",
+          "count": 13
+        }
+      ],
+      "total_kmers": 44170,
+      "unique_kmers": 548
+    },
+    "position_motifs": {
+      "motifs": [
+        {
+          "position": 0,
+          "amino_acid": "C",
+          "frequency": 1.0,
+          "count": 900
+        }
+      ],
+      "max_length": 20,
+      "positions_analyzed": 20
+    },
+    "physicochemical_motifs": {
+      "motifs": [
+        {
+          "pattern": "PPP",
+          "count": 1599
+        },
+        {
+          "pattern": "PHP",
+          "count": 1161
+        },
+        {
+          "pattern": "PPH",
+          "count": 1146
+        },
+        {
+          "pattern": "HPP",
+          "count": 1024
+        },
+        {
+          "pattern": "PHH",
+          "count": 923
+        },
+        {
+          "pattern": "HHP",
+          "count": 805
+        },
+        {
+          "pattern": "PPPP",
+          "count": 762
+        },
+        {
+          "pattern": "HPH",
+          "count": 732
+        },
+        {
+          "pattern": "PHPP",
+          "count": 545
+        },
+        {
+          "pattern": "HHH",
+          "count": 531
+        },
+        {
+          "pattern": "PPPH",
+          "count": 527
+        },
+        {
+          "pattern": "PPHP",
+          "count": 515
+        },
+        {
+          "pattern": "HPPP",
+          "count": 482
+        },
+        {
+          "pattern": "PHHP",
+          "count": 450
+        },
+        {
+          "pattern": "PPHH",
+          "count": 436
+        },
+        {
+          "pattern": "HHPP",
+          "count": 381
+        },
+        {
+          "pattern": "PHPH",
+          "count": 381
+        },
+        {
+          "pattern": "PPPPP",
+          "count": 372
+        },
+        {
+          "pattern": "HPHP",
+          "count": 348
+        },
+        {
+          "pattern": "HPPH",
+          "count": 342
+        },
+        {
+          "pattern": "PNP",
+          "count": 340
+        },
+        {
+          "pattern": "PHHH",
+          "count": 319
+        },
+        {
+          "pattern": "PPN",
+          "count": 314
+        },
+        {
+          "pattern": "HHPH",
+          "count": 279
+        },
+        {
+          "pattern": "HHHP",
+          "count": 278
+        },
+        {
+          "pattern": "HPHH",
+          "count": 264
+        },
+        {
+          "pattern": "PHPPP",
+          "count": 257
+        },
+        {
+          "pattern": "PPPHP",
+          "count": 244
+        },
+        {
+          "pattern": "PPHPP",
+          "count": 234
+        },
+        {
+          "pattern": "PNH",
+          "count": 234
+        }
+      ],
+      "unique_patterns": 1374
+    },
+    "topic_motifs": {
+      "motifs": [],
+      "method": "lda",
+      "error": "'list' object has no attribute 'tolist'"
+    },
+    "consensus_motifs": {
+      "motifs": [
+        {
+          "cluster_id": 1,
+          "consensus": "CXXXXXXXXXXXXXXXXXXX",
+          "size": 820,
+          "sequences": [
+            "CIYHGEGSTVGKGQD",
+            "CSTSCGVCLLMACCCA",
+            "CITFCTASISSRCQYA",
+            "CELSLCSIWCVRNKPP",
+            "CDKNLAKAFACLSKA"
+          ]
+        },
+        {
+          "cluster_id": 2,
+          "consensus": "CXXXXXXXXXXXXXXXXXXX",
+          "size": 33,
+          "sequences": [
+            "CLPQETQVLSTTIIQRA",
+            "CAIQETQPYLFEGY",
+            "CATKNCPVCVYQETQCCMF",
+            "CHISAQETQRLLD",
+            "CDVGYGQETQVADTIL"
+          ]
+        },
+        {
+          "cluster_id": 5,
+          "consensus": "CXXXXXXXTXXXXXXXSX",
+          "size": 8,
+          "sequences": [
+            "CCTDTVDALFAIDQQG",
+            "CIDSWVTCTDTNQEHISY",
+            "CANMCRLSTCTDTLGCSA",
+            "CCTDTSAQFRVVYC",
+            "CCTDTVRSTCLCLLKG"
+          ]
+        },
+        {
+          "cluster_id": 8,
+          "consensus": "CXXXXXXXXXXXXXXXXXXX",
+          "size": 33,
+          "sequences": [
+            "CKLTIAYNEQTGDY",
+            "CSNLCKYYNEQFKN",
+            "CNRYNEQLNCWGHD",
+            "CLHVRYNEQQVCHDG",
+            "CKDCSVHGYNEQHLNAAY"
+          ]
+        }
+      ],
+      "method": "consensus",
+      "n_clusters": 10
+    }
+  },
+  "diseased_rep1_01": {
+    "kmer_motifs": {
+      "motifs": [
+        {
+          "sequence": "CCC",
+          "count": 51
+        },
+        {
+          "sequence": "SGG",
+          "count": 38
+        },
+        {
+          "sequence": "VAG",
+          "count": 36
+        },
+        {
+          "sequence": "ASS",
+          "count": 36
+        },
+        {
+          "sequence": "YNE",
+          "count": 35
+        },
+        {
+          "sequence": "GEL",
+          "count": 35
+        },
+        {
+          "sequence": "NEQ",
+          "count": 32
+        },
+        {
+          "sequence": "TDT",
+          "count": 32
+        },
+        {
+          "sequence": "YNEQ",
+          "count": 31
+        },
+        {
+          "sequence": "QET",
+          "count": 30
+        },
+        {
+          "sequence": "ETQ",
+          "count": 30
+        },
+        {
+          "sequence": "CAC",
+          "count": 30
+        },
+        {
+          "sequence": "QETQ",
+          "count": 29
+        },
+        {
+          "sequence": "CCA",
+          "count": 27
+        },
+        {
+          "sequence": "CCS",
+          "count": 22
+        },
+        {
+          "sequence": "CSC",
+          "count": 22
+        },
+        {
+          "sequence": "CTC",
+          "count": 22
+        },
+        {
+          "sequence": "CLC",
+          "count": 21
+        },
+        {
+          "sequence": "CCL",
+          "count": 20
+        },
+        {
+          "sequence": "CGC",
+          "count": 19
+        },
+        {
+          "sequence": "CCF",
+          "count": 19
+        },
+        {
+          "sequence": "CCK",
+          "count": 18
+        },
+        {
+          "sequence": "CSG",
+          "count": 18
+        },
+        {
+          "sequence": "CCG",
+          "count": 18
+        },
+        {
+          "sequence": "CCT",
+          "count": 18
+        },
+        {
+          "sequence": "CCY",
+          "count": 17
+        },
+        {
+          "sequence": "CCN",
+          "count": 17
+        },
+        {
+          "sequence": "CNC",
+          "count": 17
+        },
+        {
+          "sequence": "CFC",
+          "count": 17
+        },
+        {
+          "sequence": "CYC",
+          "count": 16
+        },
+        {
+          "sequence": "GGC",
+          "count": 16
+        },
+        {
+          "sequence": "CAY",
+          "count": 15
+        },
+        {
+          "sequence": "CGT",
+          "count": 15
+        },
+        {
+          "sequence": "CIC",
+          "count": 15
+        },
+        {
+          "sequence": "ACA",
+          "count": 15
+        },
+        {
+          "sequence": "CKC",
+          "count": 14
+        },
+        {
+          "sequence": "CAS",
+          "count": 14
+        },
+        {
+          "sequence": "GCC",
+          "count": 14
+        },
+        {
+          "sequence": "CIA",
+          "count": 14
+        },
+        {
+          "sequence": "CAT",
+          "count": 14
+        },
+        {
+          "sequence": "CCQ",
+          "count": 13
+        },
+        {
+          "sequence": "CAA",
+          "count": 13
+        },
+        {
+          "sequence": "CGS",
+          "count": 13
+        },
+        {
+          "sequence": "CCCC",
+          "count": 13
+        },
+        {
+          "sequence": "CLA",
+          "count": 13
+        },
+        {
+          "sequence": "AGC",
+          "count": 12
+        },
+        {
+          "sequence": "CRC",
+          "count": 12
+        },
+        {
+          "sequence": "CLL",
+          "count": 12
+        },
+        {
+          "sequence": "CCI",
+          "count": 12
+        },
+        {
+          "sequence": "GCI",
+          "count": 12
+        }
+      ],
+      "total_kmers": 38918,
+      "unique_kmers": 452
+    },
+    "position_motifs": {
+      "motifs": [
+        {
+          "position": 0,
+          "amino_acid": "C",
+          "frequency": 1.0,
+          "count": 800
+        }
+      ],
+      "max_length": 20,
+      "positions_analyzed": 20
+    },
+    "physicochemical_motifs": {
+      "motifs": [
+        {
+          "pattern": "PPP",
+          "count": 1431
+        },
+        {
+          "pattern": "PPH",
+          "count": 1020
+        },
+        {
+          "pattern": "PHP",
+          "count": 1011
+        },
+        {
+          "pattern": "HPP",
+          "count": 849
+        },
+        {
+          "pattern": "PHH",
+          "count": 811
+        },
+        {
+          "pattern": "HHP",
+          "count": 708
+        },
+        {
+          "pattern": "PPPP",
+          "count": 681
+        },
+        {
+          "pattern": "HPH",
+          "count": 660
+        },
+        {
+          "pattern": "HHH",
+          "count": 529
+        },
+        {
+          "pattern": "PPPH",
+          "count": 512
+        },
+        {
+          "pattern": "PPHP",
+          "count": 507
+        },
+        {
+          "pattern": "PHPP",
+          "count": 447
+        },
+        {
+          "pattern": "HPPP",
+          "count": 412
+        },
+        {
+          "pattern": "PHHP",
+          "count": 390
+        },
+        {
+          "pattern": "PHPH",
+          "count": 372
+        },
+        {
+          "pattern": "PPHH",
+          "count": 351
+        },
+        {
+          "pattern": "HHPP",
+          "count": 324
+        },
+        {
+          "pattern": "PPPPP",
+          "count": 317
+        },
+        {
+          "pattern": "PNP",
+          "count": 308
+        },
+        {
+          "pattern": "PHHH",
+          "count": 299
+        },
+        {
+          "pattern": "HPHP",
+          "count": 283
+        },
+        {
+          "pattern": "HPPH",
+          "count": 264
+        },
+        {
+          "pattern": "HHHP",
+          "count": 254
+        },
+        {
+          "pattern": "HPHH",
+          "count": 249
+        },
+        {
+          "pattern": "PPPHP",
+          "count": 248
+        },
+        {
+          "pattern": "PPPPH",
+          "count": 244
+        },
+        {
+          "pattern": "PPN",
+          "count": 240
+        },
+        {
+          "pattern": "PPHPP",
+          "count": 234
+        },
+        {
+          "pattern": "NPP",
+          "count": 231
+        },
+        {
+          "pattern": "HHPH",
+          "count": 230
+        }
+      ],
+      "unique_patterns": 1231
+    },
+    "topic_motifs": {
+      "motifs": [],
+      "method": "lda",
+      "error": "'list' object has no attribute 'tolist'"
+    },
+    "consensus_motifs": {
+      "motifs": [
+        {
+          "cluster_id": 0,
+          "consensus": "CXXXXXXXXXXXXXXXXGY",
+          "size": 6,
+          "sequences": [
+            "CCYCGCGELNYVIH",
+            "CGQSVGCGCNLTCK",
+            "CGCGELRCCC",
+            "CGCGKNRGKGD",
+            "CKDVAGCGCCTRFVQAV"
+          ]
+        },
+        {
+          "cluster_id": 1,
+          "consensus": "CXXXXXXXXXXXXXXXXXXX",
+          "size": 38,
+          "sequences": [
+            "CLRISGGVLCECKCAIQ",
+            "CGSGGRVQRC",
+            "CCGVTILSGGSI",
+            "CRISGGGSQV",
+            "CCGSSGGECV"
+          ]
+        },
+        {
+          "cluster_id": 2,
+          "consensus": "CXXXXXXXXXXXXXXXXXXX",
+          "size": 35,
+          "sequences": [
+            "CYGTASSFVYVGIC",
+            "CLSIANTASS",
+            "CLPYASSCAYCC",
+            "CIASSKVII",
+            "CCKVPMSCGASSACY"
+          ]
+        },
+        {
+          "cluster_id": 3,
+          "consensus": "CXXXCXXXXCXCXAXXXM",
+          "size": 6,
+          "sequences": [
+            "CCCCACRLNL",
+            "CCGELRCCCCCCLAHVAM",
+            "CCCCCLAL",
+            "CGVLCCCCNIMGMA",
+            "CDCNCCCCCC"
+          ]
+        },
+        {
+          "cluster_id": 4,
+          "consensus": "CXXXXXXXXXXXXXXXXXXX",
+          "size": 28,
+          "sequences": [
+            "CLSMDYNEQCETCA",
+            "CPPLEQEYNEQNGLTIDK",
+            "CELLCAYNEQIK",
+            "CASYYYYNEQSDNKECEN",
+            "CTYNEQAFPHCA"
+          ]
+        },
+        {
+          "cluster_id": 5,
+          "consensus": "CXXXXXXXXXXXXXXXXXXX",
+          "size": 652,
+          "sequences": [
+            "CSREWGKRICIIFKLP",
+            "CFYTYLVGDVFKETA",
+            "CAEDLSCTIFVSLS",
+            "CECEAECDCFFKLAS",
+            "CRQCEAREICLTFGH"
+          ]
+        },
+        {
+          "cluster_id": 6,
+          "consensus": "CXXXXXXXXXXXXXXXXHM",
+          "size": 6,
+          "sequences": [
+            "CFAQETQEATICPCN",
+            "CLMMTQETQAVTE",
+            "CNQETQEGTYCHGQSND",
+            "CYTQETQRS",
+            "CCQETQEYICTSDCGFPHM"
+          ]
+        },
+        {
+          "cluster_id": 7,
+          "consensus": "CXXXXXXXXXXXXXXXXXXX",
+          "size": 23,
+          "sequences": [
+            "CDQETQTGQMICVCA",
+            "CVTLQETQAAGWKCMG",
+            "CGSAQETQYCA",
+            "CCGVRSCQETQKNC",
+            "CLCMARQETQTVKDG"
+          ]
+        },
+        {
+          "cluster_id": 9,
+          "consensus": "CXXXXXXXXXXXXXXXCCLI",
+          "size": 5,
+          "sequences": [
+            "CGVRECYNEQEAGCA",
+            "CTTLMFSFPYQCYNEQCCLI",
+            "CACQGVCYNEQGTEI",
+            "CNTVCYNEQDCFRS",
+            "CNSVICYNEQNSLTLC"
+          ]
+        }
+      ],
+      "method": "consensus",
+      "n_clusters": 10
+    }
+  },
+  "control_rep1_01": {
+    "kmer_motifs": {
+      "motifs": [
+        {
+          "sequence": "SGG",
+          "count": 61
+        },
+        {
+          "sequence": "GEL",
+          "count": 56
+        },
+        {
+          "sequence": "NEQ",
+          "count": 55
+        },
+        {
+          "sequence": "YNE",
+          "count": 54
+        },
+        {
+          "sequence": "YNEQ",
+          "count": 54
+        },
+        {
+          "sequence": "ETQ",
+          "count": 53
+        },
+        {
+          "sequence": "CCC",
+          "count": 52
+        },
+        {
+          "sequence": "QET",
+          "count": 51
+        },
+        {
+          "sequence": "QETQ",
+          "count": 51
+        },
+        {
+          "sequence": "TDT",
+          "count": 45
+        },
+        {
+          "sequence": "VAG",
+          "count": 41
+        },
+        {
+          "sequence": "CCS",
+          "count": 41
+        },
+        {
+          "sequence": "ASS",
+          "count": 39
+        },
+        {
+          "sequence": "CLC",
+          "count": 34
+        },
+        {
+          "sequence": "CCA",
+          "count": 34
+        },
+        {
+          "sequence": "CSC",
+          "count": 32
+        },
+        {
+          "sequence": "CTC",
+          "count": 30
+        },
+        {
+          "sequence": "CGC",
+          "count": 29
+        },
+        {
+          "sequence": "CCG",
+          "count": 28
+        },
+        {
+          "sequence": "CAC",
+          "count": 28
+        },
+        {
+          "sequence": "CCN",
+          "count": 27
+        },
+        {
+          "sequence": "CIC",
+          "count": 27
+        },
+        {
+          "sequence": "CCL",
+          "count": 27
+        },
+        {
+          "sequence": "CCI",
+          "count": 27
+        },
+        {
+          "sequence": "CAA",
+          "count": 27
+        },
+        {
+          "sequence": "CSG",
+          "count": 26
+        },
+        {
+          "sequence": "TCC",
+          "count": 25
+        },
+        {
+          "sequence": "CVC",
+          "count": 24
+        },
+        {
+          "sequence": "CSL",
+          "count": 23
+        },
+        {
+          "sequence": "CCQ",
+          "count": 23
+        },
+        {
+          "sequence": "CCT",
+          "count": 22
+        },
+        {
+          "sequence": "LCC",
+          "count": 22
+        },
+        {
+          "sequence": "SCC",
+          "count": 21
+        },
+        {
+          "sequence": "ACC",
+          "count": 21
+        },
+        {
+          "sequence": "CNC",
+          "count": 21
+        },
+        {
+          "sequence": "CCE",
+          "count": 20
+        },
+        {
+          "sequence": "QCC",
+          "count": 20
+        },
+        {
+          "sequence": "CEC",
+          "count": 20
+        },
+        {
+          "sequence": "CCK",
+          "count": 20
+        },
+        {
+          "sequence": "CCF",
+          "count": 19
+        },
+        {
+          "sequence": "CAL",
+          "count": 19
+        },
+        {
+          "sequence": "CVA",
+          "count": 19
+        },
+        {
+          "sequence": "CLS",
+          "count": 19
+        },
+        {
+          "sequence": "CKC",
+          "count": 19
+        },
+        {
+          "sequence": "CYC",
+          "count": 18
+        },
+        {
+          "sequence": "CGT",
+          "count": 17
+        },
+        {
+          "sequence": "CCY",
+          "count": 17
+        },
+        {
+          "sequence": "CCR",
+          "count": 17
+        },
+        {
+          "sequence": "CCD",
+          "count": 17
+        },
+        {
+          "sequence": "CFC",
+          "count": 17
+        }
+      ],
+      "total_kmers": 56248,
+      "unique_kmers": 903
+    },
+    "position_motifs": {
+      "motifs": [
+        {
+          "position": 0,
+          "amino_acid": "C",
+          "frequency": 1.0,
+          "count": 1200
+        }
+      ],
+      "max_length": 20,
+      "positions_analyzed": 20
+    },
+    "physicochemical_motifs": {
+      "motifs": [
+        {
+          "pattern": "PPP",
+          "count": 2164
+        },
+        {
+          "pattern": "PHP",
+          "count": 1550
+        },
+        {
+          "pattern": "PPH",
+          "count": 1540
+        },
+        {
+          "pattern": "HPP",
+          "count": 1315
+        },
+        {
+          "pattern": "PHH",
+          "count": 1178
+        },
+        {
+          "pattern": "HHP",
+          "count": 1051
+        },
+        {
+          "pattern": "PPPP",
+          "count": 1036
+        },
+        {
+          "pattern": "HPH",
+          "count": 962
+        },
+        {
+          "pattern": "PPHP",
+          "count": 727
+        },
+        {
+          "pattern": "HHH",
+          "count": 725
+        },
+        {
+          "pattern": "PPPH",
+          "count": 721
+        },
+        {
+          "pattern": "PHPP",
+          "count": 714
+        },
+        {
+          "pattern": "HPPP",
+          "count": 621
+        },
+        {
+          "pattern": "PHHP",
+          "count": 614
+        },
+        {
+          "pattern": "PPHH",
+          "count": 540
+        },
+        {
+          "pattern": "PHPH",
+          "count": 524
+        },
+        {
+          "pattern": "PPPPP",
+          "count": 510
+        },
+        {
+          "pattern": "HHPP",
+          "count": 483
+        },
+        {
+          "pattern": "HPHP",
+          "count": 464
+        },
+        {
+          "pattern": "HPPH",
+          "count": 448
+        },
+        {
+          "pattern": "PNP",
+          "count": 435
+        },
+        {
+          "pattern": "PHHH",
+          "count": 394
+        },
+        {
+          "pattern": "PPN",
+          "count": 368
+        },
+        {
+          "pattern": "HHPH",
+          "count": 352
+        },
+        {
+          "pattern": "HPHH",
+          "count": 344
+        },
+        {
+          "pattern": "NPP",
+          "count": 340
+        },
+        {
+          "pattern": "PPPPH",
+          "count": 333
+        },
+        {
+          "pattern": "PHPPP",
+          "count": 332
+        },
+        {
+          "pattern": "HHHP",
+          "count": 330
+        },
+        {
+          "pattern": "PPHPP",
+          "count": 328
+        }
+      ],
+      "unique_patterns": 1645
+    },
+    "topic_motifs": {
+      "motifs": [],
+      "method": "lda",
+      "error": "'list' object has no attribute 'tolist'"
+    },
+    "consensus_motifs": {
+      "motifs": [
+        {
+          "cluster_id": 0,
+          "consensus": "CXXXXXXXXXXXXXXXXXXT",
+          "size": 59,
+          "sequences": [
+            "CESSGGYNSGKCAT",
+            "CNYVRQSGGYLVRE",
+            "CALYSGGQMFTG",
+            "CGCFCMLCQASGGVA",
+            "CATHDCSGGSAC"
+          ]
+        },
+        {
+          "cluster_id": 1,
+          "consensus": "CXXXXXXXXXXXXXXXXCA",
+          "size": 13,
+          "sequences": [
+            "CIYVRFSLCHPGM",
+            "CQEYSLCNHCGVCF",
+            "CSRFHFTKISLFCIYLN",
+            "CHGAFNSLCLCAASRLPCA",
+            "CCDCSLCMLE"
+          ]
+        },
+        {
+          "cluster_id": 2,
+          "consensus": "CXXXXXXXXXXXXXXXXXXX",
+          "size": 51,
+          "sequences": [
+            "CLLCQETQSVGS",
+            "CCSFECYIAVQETQDDCY",
+            "CNYFFYQETQCCDEGQS",
+            "CESQETQCEALCFCCT",
+            "CCFWYGEYQETQTLAY"
+          ]
+        },
+        {
+          "cluster_id": 3,
+          "consensus": "CXXXXXXXXXXXXXXXXXXC",
+          "size": 54,
+          "sequences": [
+            "CSSLSLRTAWFYNEQQY",
+            "CYCGYNEQCICTLCI",
+            "CGDWRANYNEQWCVA",
+            "CLGYNEQIV",
+            "CCILQIYNEQSACC"
+          ]
+        },
+        {
+          "cluster_id": 4,
+          "consensus": "CXXXXXXXXXXXXXXXXXXC",
+          "size": 9,
+          "sequences": [
+            "CAGELRFCSVITWNS",
+            "CCSIEWCGGAGELIYNVS",
+            "CAGELSKLQCMI",
+            "CTNAGELKRT",
+            "CLMQCCGHAGELADSFSKVC"
+          ]
+        },
+        {
+          "cluster_id": 5,
+          "consensus": "CXXXXXXXXXXXXXXXXXI",
+          "size": 18,
+          "sequences": [
+            "CQAASDDVCCICQCTCRG",
+            "CCICCCCCSFDCSMVQCA",
+            "CCCICAAYCIHRVCLTCN",
+            "CTGYCCICIKKYTLIYA",
+            "CFTCCCCIY"
+          ]
+        },
+        {
+          "cluster_id": 6,
+          "consensus": "CQLXXXXXXXXXXXXXXXXN",
+          "size": 15,
+          "sequences": [
+            "CQLYGGMTLPVLTATDI",
+            "CQLTGNSVHKSLCGEKSFS",
+            "CQLINASSLYKCRYT",
+            "CQLCCRQL",
+            "CKQNLCRACQLGYLE"
+          ]
+        },
+        {
+          "cluster_id": 7,
+          "consensus": "CXXXXXXXXXXXXXXXXCXX",
+          "size": 19,
+          "sequences": [
+            "CILAIRGRCKCHDSAL",
+            "CLTLDTYMCCSCCKCPA",
+            "CCKAADRVCDCKCCT",
+            "CKCSCSYGRAILECNTCCNY",
+            "CVYYHCKCFIGELCSTCHA"
+          ]
+        },
+        {
+          "cluster_id": 8,
+          "consensus": "CXXXXXXXXXXXXXXXXXXX",
+          "size": 961,
+          "sequences": [
+            "CDVAGDLICCSILNVYY",
+            "CSGISACISGELSVA",
+            "CDLDLCGCRKEGC",
+            "CCSGCSCSITTAS",
+            "CILCLFCGCSSY"
+          ]
+        }
+      ],
+      "method": "consensus",
+      "n_clusters": 10
+    }
+  },
+  "diseased_rep3_01": {
+    "kmer_motifs": {
+      "motifs": [
+        {
+          "sequence": "CCC",
+          "count": 43
+        },
+        {
+          "sequence": "QET",
+          "count": 37
+        },
+        {
+          "sequence": "SGG",
+          "count": 35
+        },
+        {
+          "sequence": "ETQ",
+          "count": 34
+        },
+        {
+          "sequence": "QETQ",
+          "count": 34
+        },
+        {
+          "sequence": "VAG",
+          "count": 34
+        },
+        {
+          "sequence": "GEL",
+          "count": 33
+        },
+        {
+          "sequence": "CLC",
+          "count": 28
+        },
+        {
+          "sequence": "TDT",
+          "count": 26
+        },
+        {
+          "sequence": "YNE",
+          "count": 26
+        },
+        {
+          "sequence": "NEQ",
+          "count": 26
+        },
+        {
+          "sequence": "YNEQ",
+          "count": 26
+        },
+        {
+          "sequence": "ASS",
+          "count": 23
+        },
+        {
+          "sequence": "CCL",
+          "count": 23
+        },
+        {
+          "sequence": "CCS",
+          "count": 22
+        },
+        {
+          "sequence": "CSC",
+          "count": 21
+        },
+        {
+          "sequence": "CGC",
+          "count": 20
+        },
+        {
+          "sequence": "CAS",
+          "count": 19
+        },
+        {
+          "sequence": "CVA",
+          "count": 18
+        },
+        {
+          "sequence": "CCE",
+          "count": 18
+        },
+        {
+          "sequence": "CNC",
+          "count": 17
+        },
+        {
+          "sequence": "CCA",
+          "count": 16
+        },
+        {
+          "sequence": "CAC",
+          "count": 16
+        },
+        {
+          "sequence": "CAA",
+          "count": 16
+        },
+        {
+          "sequence": "CTC",
+          "count": 16
+        },
+        {
+          "sequence": "CVC",
+          "count": 15
+        },
+        {
+          "sequence": "CIC",
+          "count": 15
+        },
+        {
+          "sequence": "CCI",
+          "count": 15
+        },
+        {
+          "sequence": "CCV",
+          "count": 15
+        },
+        {
+          "sequence": "ACC",
+          "count": 15
+        },
+        {
+          "sequence": "TCC",
+          "count": 14
+        },
+        {
+          "sequence": "CCF",
+          "count": 14
+        },
+        {
+          "sequence": "SCC",
+          "count": 14
+        },
+        {
+          "sequence": "CCN",
+          "count": 14
+        },
+        {
+          "sequence": "CLI",
+          "count": 14
+        },
+        {
+          "sequence": "CCQ",
+          "count": 13
+        },
+        {
+          "sequence": "CFC",
+          "count": 13
+        },
+        {
+          "sequence": "CYL",
+          "count": 13
+        },
+        {
+          "sequence": "ICC",
+          "count": 13
+        },
+        {
+          "sequence": "GCC",
+          "count": 12
+        },
+        {
+          "sequence": "CDC",
+          "count": 12
+        },
+        {
+          "sequence": "LCI",
+          "count": 12
+        },
+        {
+          "sequence": "AGC",
+          "count": 12
+        },
+        {
+          "sequence": "CSG",
+          "count": 12
+        },
+        {
+          "sequence": "CCG",
+          "count": 12
+        },
+        {
+          "sequence": "LCC",
+          "count": 12
+        },
+        {
+          "sequence": "GGC",
+          "count": 12
+        },
+        {
+          "sequence": "GLC",
+          "count": 11
+        },
+        {
+          "sequence": "CTA",
+          "count": 11
+        },
+        {
+          "sequence": "CCT",
+          "count": 11
+        }
+      ],
+      "total_kmers": 35865,
+      "unique_kmers": 368
+    },
+    "position_motifs": {
+      "motifs": [
+        {
+          "position": 0,
+          "amino_acid": "C",
+          "frequency": 1.0,
+          "count": 750
+        }
+      ],
+      "max_length": 20,
+      "positions_analyzed": 20
+    },
+    "physicochemical_motifs": {
+      "motifs": [
+        {
+          "pattern": "PPP",
+          "count": 1299
+        },
+        {
+          "pattern": "PHP",
+          "count": 969
+        },
+        {
+          "pattern": "PPH",
+          "count": 935
+        },
+        {
+          "pattern": "HPP",
+          "count": 786
+        },
+        {
+          "pattern": "PHH",
+          "count": 732
+        },
+        {
+          "pattern": "HHP",
+          "count": 629
+        },
+        {
+          "pattern": "HPH",
+          "count": 612
+        },
+        {
+          "pattern": "PPPP",
+          "count": 605
+        },
+        {
+          "pattern": "PPPH",
+          "count": 469
+        },
+        {
+          "pattern": "HHH",
+          "count": 459
+        },
+        {
+          "pattern": "PHPP",
+          "count": 434
+        },
+        {
+          "pattern": "PPHP",
+          "count": 428
+        },
+        {
+          "pattern": "HPPP",
+          "count": 364
+        },
+        {
+          "pattern": "PHHP",
+          "count": 354
+        },
+        {
+          "pattern": "PPHH",
+          "count": 340
+        },
+        {
+          "pattern": "PHPH",
+          "count": 340
+        },
+        {
+          "pattern": "HPHP",
+          "count": 309
+        },
+        {
+          "pattern": "PNP",
+          "count": 280
+        },
+        {
+          "pattern": "HHPP",
+          "count": 278
+        },
+        {
+          "pattern": "PPPPP",
+          "count": 271
+        },
+        {
+          "pattern": "PHHH",
+          "count": 261
+        },
+        {
+          "pattern": "HPPH",
+          "count": 258
+        },
+        {
+          "pattern": "PPN",
+          "count": 226
+        },
+        {
+          "pattern": "PPPPH",
+          "count": 224
+        },
+        {
+          "pattern": "HHPH",
+          "count": 218
+        },
+        {
+          "pattern": "PPPHP",
+          "count": 217
+        },
+        {
+          "pattern": "NPP",
+          "count": 213
+        },
+        {
+          "pattern": "PPHPP",
+          "count": 212
+        },
+        {
+          "pattern": "PHPPP",
+          "count": 210
+        },
+        {
+          "pattern": "HHHP",
+          "count": 209
+        }
+      ],
+      "unique_patterns": 1152
+    },
+    "topic_motifs": {
+      "motifs": [],
+      "method": "lda",
+      "error": "'list' object has no attribute 'tolist'"
+    },
+    "consensus_motifs": {
+      "motifs": [
+        {
+          "cluster_id": 1,
+          "consensus": "CXXXXXXXXXXXXXXXXXXC",
+          "size": 10,
+          "sequences": [
+            "CGDRMNQTCSYAAIIL",
+            "CCFRNYSSYNSLH",
+            "CGKDNQSRSILQTLKSYN",
+            "CLIGCSYVSSSN",
+            "CSYKTIPPGFILRVEDLCSC"
+          ]
+        },
+        {
+          "cluster_id": 2,
+          "consensus": "CCCXXXXXXXXXXXCXXF",
+          "size": 12,
+          "sequences": [
+            "CCCCCLCREECPNYCYVF",
+            "CCCCVGFL",
+            "CCCRHFAYPACCLI",
+            "CSAGELECACCCL",
+            "CVQYLCCCLIAD"
+          ]
+        },
+        {
+          "cluster_id": 3,
+          "consensus": "CXXXXXXXXXXXXXXXXXXK",
+          "size": 36,
+          "sequences": [
+            "CDFVQLFMYCASSVA",
+            "CVAYQTASLV",
+            "CGCRVGAFASSNNY",
+            "CDCVAGLCYDCVA",
+            "CCVALESECCGPLSEKG"
+          ]
+        },
+        {
+          "cluster_id": 4,
+          "consensus": "CXXXXXXXXXXXXXXXXXXX",
+          "size": 34,
+          "sequences": [
+            "CDGLRRSGGDGCC",
+            "CISEYLLSGGSCLLCEFY",
+            "CSSGGQFVNACA",
+            "CKCDSGGLACHST",
+            "CTTGQSVSGGAFVK"
+          ]
+        },
+        {
+          "cluster_id": 5,
+          "consensus": "CXXXXXXXXXXXXXXXXXXX",
+          "size": 531,
+          "sequences": [
+            "CVDLRCASMPGLCR",
+            "CLVLSTCCFVCDKG",
+            "CLACDHTCQLICLA",
+            "CQNGNCKINQ",
+            "CEQCYTVGLCSCCSE"
+          ]
+        },
+        {
+          "cluster_id": 6,
+          "consensus": "CXXXXXXXXXXXXXXXXXXQ",
+          "size": 25,
+          "sequences": [
+            "CCLCTANLYLFCASCK",
+            "CYFTCLCECHA",
+            "CENQNMAATCLCDRVG",
+            "CTCLCVVAALIVMC",
+            "CQSGCCLCQRPLKRGPSCY"
+          ]
+        },
+        {
+          "cluster_id": 7,
+          "consensus": "CXXXXXXXXXXXXXXXXXXX",
+          "size": 41,
+          "sequences": [
+            "CLVEENRASTDTWATD",
+            "CIYCCTDTALYV",
+            "CLSPCKCVTDTFDQTAT",
+            "CSAITDTQSTRSCLFE",
+            "CIKAWAAFCCEGIK"
+          ]
+        },
+        {
+          "cluster_id": 8,
+          "consensus": "CXXXXXXXXXXXXXXXXXXX",
+          "size": 34,
+          "sequences": [
+            "CPDNADSQETQDDC",
+            "CESSYCQETQLWL",
+            "CCNQETQTTV",
+            "CCCICKDCQETQTLDVGF",
+            "CLFCMFAFQETQCS"
+          ]
+        },
+        {
+          "cluster_id": 9,
+          "consensus": "CXXXXXXXXXXXXXXXXXXR",
+          "size": 26,
+          "sequences": [
+            "CQIVQFYNEQVG",
+            "CSRFRSSVNYNEQHDIMG",
+            "CCCMYNEQLSML",
+            "CLQSCELGQVYNEQLAE",
+            "CAVWYNEQKC"
+          ]
+        }
+      ],
+      "method": "consensus",
+      "n_clusters": 10
+    }
+  },
+  "control_rep3_01": {
+    "kmer_motifs": {
+      "motifs": [
+        {
+          "sequence": "VAG",
+          "count": 74
+        },
+        {
+          "sequence": "CCC",
+          "count": 70
+        },
+        {
+          "sequence": "ASS",
+          "count": 62
+        },
+        {
+          "sequence": "NEQ",
+          "count": 57
+        },
+        {
+          "sequence": "YNE",
+          "count": 56
+        },
+        {
+          "sequence": "YNEQ",
+          "count": 56
+        },
+        {
+          "sequence": "GEL",
+          "count": 55
+        },
+        {
+          "sequence": "ETQ",
+          "count": 54
+        },
+        {
+          "sequence": "QET",
+          "count": 53
+        },
+        {
+          "sequence": "QETQ",
+          "count": 53
+        },
+        {
+          "sequence": "SGG",
+          "count": 46
+        },
+        {
+          "sequence": "TDT",
+          "count": 44
+        },
+        {
+          "sequence": "CLC",
+          "count": 37
+        },
+        {
+          "sequence": "CCA",
+          "count": 34
+        },
+        {
+          "sequence": "CVC",
+          "count": 34
+        },
+        {
+          "sequence": "CCV",
+          "count": 34
+        },
+        {
+          "sequence": "CAC",
+          "count": 33
+        },
+        {
+          "sequence": "CSC",
+          "count": 31
+        },
+        {
+          "sequence": "CCL",
+          "count": 31
+        },
+        {
+          "sequence": "CCS",
+          "count": 30
+        },
+        {
+          "sequence": "CCG",
+          "count": 29
+        },
+        {
+          "sequence": "CIC",
+          "count": 28
+        },
+        {
+          "sequence": "CCT",
+          "count": 28
+        },
+        {
+          "sequence": "CCI",
+          "count": 28
+        },
+        {
+          "sequence": "CAS",
+          "count": 28
+        },
+        {
+          "sequence": "CLV",
+          "count": 26
+        },
+        {
+          "sequence": "CCE",
+          "count": 24
+        },
+        {
+          "sequence": "CGA",
+          "count": 24
+        },
+        {
+          "sequence": "CLT",
+          "count": 24
+        },
+        {
+          "sequence": "CCR",
+          "count": 24
+        },
+        {
+          "sequence": "CSG",
+          "count": 23
+        },
+        {
+          "sequence": "CYC",
+          "count": 23
+        },
+        {
+          "sequence": "CCD",
+          "count": 23
+        },
+        {
+          "sequence": "CGC",
+          "count": 23
+        },
+        {
+          "sequence": "CCY",
+          "count": 23
+        },
+        {
+          "sequence": "CTC",
+          "count": 22
+        },
+        {
+          "sequence": "CTL",
+          "count": 22
+        },
+        {
+          "sequence": "ICC",
+          "count": 21
+        },
+        {
+          "sequence": "CQC",
+          "count": 21
+        },
+        {
+          "sequence": "SSC",
+          "count": 20
+        },
+        {
+          "sequence": "CAL",
+          "count": 20
+        },
+        {
+          "sequence": "CAA",
+          "count": 20
+        },
+        {
+          "sequence": "FCC",
+          "count": 19
+        },
+        {
+          "sequence": "CFG",
+          "count": 19
+        },
+        {
+          "sequence": "ACC",
+          "count": 19
+        },
+        {
+          "sequence": "AGC",
+          "count": 19
+        },
+        {
+          "sequence": "LCC",
+          "count": 18
+        },
+        {
+          "sequence": "GCC",
+          "count": 18
+        },
+        {
+          "sequence": "CVS",
+          "count": 18
+        },
+        {
+          "sequence": "CSL",
+          "count": 18
+        }
+      ],
+      "total_kmers": 60886,
+      "unique_kmers": 976
+    },
+    "position_motifs": {
+      "motifs": [
+        {
+          "position": 0,
+          "amino_acid": "C",
+          "frequency": 1.0,
+          "count": 1300
+        }
+      ],
+      "max_length": 20,
+      "positions_analyzed": 20
+    },
+    "physicochemical_motifs": {
+      "motifs": [
+        {
+          "pattern": "PPP",
+          "count": 2141
+        },
+        {
+          "pattern": "PHP",
+          "count": 1709
+        },
+        {
+          "pattern": "PPH",
+          "count": 1707
+        },
+        {
+          "pattern": "HPP",
+          "count": 1414
+        },
+        {
+          "pattern": "PHH",
+          "count": 1320
+        },
+        {
+          "pattern": "HHP",
+          "count": 1112
+        },
+        {
+          "pattern": "HPH",
+          "count": 1073
+        },
+        {
+          "pattern": "PPPP",
+          "count": 987
+        },
+        {
+          "pattern": "PPHP",
+          "count": 801
+        },
+        {
+          "pattern": "PHPP",
+          "count": 787
+        },
+        {
+          "pattern": "HHH",
+          "count": 778
+        },
+        {
+          "pattern": "PPPH",
+          "count": 771
+        },
+        {
+          "pattern": "PHHP",
+          "count": 649
+        },
+        {
+          "pattern": "HPPP",
+          "count": 634
+        },
+        {
+          "pattern": "PPHH",
+          "count": 622
+        },
+        {
+          "pattern": "PHPH",
+          "count": 573
+        },
+        {
+          "pattern": "HPHP",
+          "count": 497
+        },
+        {
+          "pattern": "HPPH",
+          "count": 491
+        },
+        {
+          "pattern": "HHPP",
+          "count": 487
+        },
+        {
+          "pattern": "PNP",
+          "count": 466
+        },
+        {
+          "pattern": "PHHH",
+          "count": 451
+        },
+        {
+          "pattern": "PPPPP",
+          "count": 449
+        },
+        {
+          "pattern": "HPHH",
+          "count": 406
+        },
+        {
+          "pattern": "HHPH",
+          "count": 390
+        },
+        {
+          "pattern": "PPN",
+          "count": 389
+        },
+        {
+          "pattern": "PPPHP",
+          "count": 374
+        },
+        {
+          "pattern": "NPP",
+          "count": 367
+        },
+        {
+          "pattern": "HHHP",
+          "count": 366
+        },
+        {
+          "pattern": "PPHPP",
+          "count": 366
+        },
+        {
+          "pattern": "PPPPH",
+          "count": 351
+        }
+      ],
+      "unique_patterns": 1797
+    },
+    "topic_motifs": {
+      "motifs": [],
+      "method": "lda",
+      "error": "'list' object has no attribute 'tolist'"
+    },
+    "consensus_motifs": {
+      "motifs": [
+        {
+          "cluster_id": 1,
+          "consensus": "CXXXXXXXXXXXXXXXXXXX",
+          "size": 976,
+          "sequences": [
+            "CLILCELLQIIDLTQVC",
+            "CCEVLESSNIHDATCG",
+            "CYGIYTIKQSIKGINSF",
+            "CCFEEICEGAFMPMVK",
+            "CDQSECCGVCPQNA"
+          ]
+        },
+        {
+          "cluster_id": 3,
+          "consensus": "CXXXXXXXXXXXXXXXXXXI",
+          "size": 25,
+          "sequences": [
+            "CLPQPCKLYVCDFGNST",
+            "CIGIASSDCKLEAT",
+            "CITCRDYLSCLQF",
+            "CNSCITAVIVPGQAS",
+            "CCQFFSDCGCFGCHVYCC"
+          ]
+        },
+        {
+          "cluster_id": 5,
+          "consensus": "CXXXXXXXXXXXXXXXXXXX",
+          "size": 53,
+          "sequences": [
+            "CNPQETQSNKGVCYV",
+            "CMVWYVQETQRDKY",
+            "CCIQETQTSVT",
+            "CPADSFRRYFQETQAACDF",
+            "CAQETQCFL"
+          ]
+        },
+        {
+          "cluster_id": 6,
+          "consensus": "CXXXXXXXXXXXXXXXXXXX",
+          "size": 53,
+          "sequences": [
+            "CLVEYTADGELLKVCSCV",
+            "CECEAACGAYYAPGELGCK",
+            "CGGELELNAIT",
+            "CQLVGELGFHCCTVAR",
+            "CMNEMNCGELEC"
+          ]
+        },
+        {
+          "cluster_id": 7,
+          "consensus": "CXXXXXXXXXXXXXXXXXXX",
+          "size": 60,
+          "sequences": [
+            "CHDYGCTASSCHNDYIAS",
+            "CMCTQASSPDTVS",
+            "CCIKVCVASSIVFEKCV",
+            "CCCEASSCY",
+            "CYASSIDLMY"
+          ]
+        },
+        {
+          "cluster_id": 8,
+          "consensus": "CXXXXXXXXXXXXXXXXXXX",
+          "size": 56,
+          "sequences": [
+            "CFEYNEQTTVSWE",
+            "CSYNEQLMLRSKG",
+            "CALMYNEQKCSRLCEG",
+            "CAPYNEQCFAFH",
+            "CGIKDYNEQVVCFCQDNRS"
+          ]
+        },
+        {
+          "cluster_id": 9,
+          "consensus": "CXXXXXXXXXXXXXXXXXXX",
+          "size": 72,
+          "sequences": [
+            "CQEVAGILCLIVC",
+            "CLAFPGGVAGLVNQ",
+            "CSGLVAGYGSVCYCLSGS",
+            "CNILVAGNCGSQTYR",
+            "CVVLVAGAR"
+          ]
+        }
+      ],
+      "method": "consensus",
+      "n_clusters": 10
+    }
+  },
+  "cross_sample": {
+    "combined_kmer": {
+      "motifs": [
+        {
+          "sequence": "CCC",
+          "count": 319
+        },
+        {
+          "sequence": "GEL",
+          "count": 273
+        },
+        {
+          "sequence": "SGG",
+          "count": 269
+        },
+        {
+          "sequence": "VAG",
+          "count": 265
+        },
+        {
+          "sequence": "YNE",
+          "count": 257
+        },
+        {
+          "sequence": "NEQ",
+          "count": 257
+        },
+        {
+          "sequence": "QET",
+          "count": 254
+        },
+        {
+          "sequence": "YNEQ",
+          "count": 253
+        },
+        {
+          "sequence": "ETQ",
+          "count": 253
+        },
+        {
+          "sequence": "QETQ",
+          "count": 246
+        },
+        {
+          "sequence": "TDT",
+          "count": 241
+        },
+        {
+          "sequence": "ASS",
+          "count": 232
+        },
+        {
+          "sequence": "CCA",
+          "count": 170
+        },
+        {
+          "sequence": "CLC",
+          "count": 170
+        },
+        {
+          "sequence": "CCS",
+          "count": 166
+        },
+        {
+          "sequence": "CSC",
+          "count": 160
+        },
+        {
+          "sequence": "CAC",
+          "count": 154
+        },
+        {
+          "sequence": "CGC",
+          "count": 141
+        },
+        {
+          "sequence": "CCG",
+          "count": 137
+        },
+        {
+          "sequence": "CCT",
+          "count": 136
+        },
+        {
+          "sequence": "CCL",
+          "count": 136
+        },
+        {
+          "sequence": "CTC",
+          "count": 122
+        },
+        {
+          "sequence": "CCY",
+          "count": 120
+        },
+        {
+          "sequence": "CIC",
+          "count": 120
+        },
+        {
+          "sequence": "CCI",
+          "count": 119
+        },
+        {
+          "sequence": "CSG",
+          "count": 118
+        },
+        {
+          "sequence": "CVC",
+          "count": 115
+        },
+        {
+          "sequence": "CCV",
+          "count": 110
+        },
+        {
+          "sequence": "CAA",
+          "count": 107
+        },
+        {
+          "sequence": "CYC",
+          "count": 105
+        },
+        {
+          "sequence": "CCF",
+          "count": 105
+        },
+        {
+          "sequence": "CAS",
+          "count": 102
+        },
+        {
+          "sequence": "CFC",
+          "count": 100
+        },
+        {
+          "sequence": "LCC",
+          "count": 96
+        },
+        {
+          "sequence": "CNC",
+          "count": 96
+        },
+        {
+          "sequence": "SCC",
+          "count": 95
+        },
+        {
+          "sequence": "ACC",
+          "count": 93
+        },
+        {
+          "sequence": "CCE",
+          "count": 92
+        },
+        {
+          "sequence": "CCQ",
+          "count": 91
+        },
+        {
+          "sequence": "TCC",
+          "count": 90
+        },
+        {
+          "sequence": "CCR",
+          "count": 89
+        },
+        {
+          "sequence": "CLV",
+          "count": 89
+        },
+        {
+          "sequence": "CCN",
+          "count": 89
+        },
+        {
+          "sequence": "CAL",
+          "count": 89
+        },
+        {
+          "sequence": "CVA",
+          "count": 89
+        },
+        {
+          "sequence": "CCK",
+          "count": 88
+        },
+        {
+          "sequence": "AGC",
+          "count": 87
+        },
+        {
+          "sequence": "CSL",
+          "count": 85
+        },
+        {
+          "sequence": "CKC",
+          "count": 85
+        },
+        {
+          "sequence": "GCC",
+          "count": 83
+        },
+        {
+          "sequence": "CEC",
+          "count": 83
+        },
+        {
+          "sequence": "CIA",
+          "count": 83
+        },
+        {
+          "sequence": "CTL",
+          "count": 82
+        },
+        {
+          "sequence": "ICC",
+          "count": 81
+        },
+        {
+          "sequence": "GGC",
+          "count": 79
+        },
+        {
+          "sequence": "CLS",
+          "count": 77
+        },
+        {
+          "sequence": "CGE",
+          "count": 76
+        },
+        {
+          "sequence": "CYA",
+          "count": 74
+        },
+        {
+          "sequence": "CGA",
+          "count": 73
+        },
+        {
+          "sequence": "CLT",
+          "count": 73
+        },
+        {
+          "sequence": "FCC",
+          "count": 73
+        },
+        {
+          "sequence": "CSA",
+          "count": 72
+        },
+        {
+          "sequence": "CCD",
+          "count": 70
+        },
+        {
+          "sequence": "CRC",
+          "count": 70
+        },
+        {
+          "sequence": "CDC",
+          "count": 70
+        },
+        {
+          "sequence": "CVS",
+          "count": 70
+        },
+        {
+          "sequence": "CLA",
+          "count": 69
+        },
+        {
+          "sequence": "CAG",
+          "count": 68
+        },
+        {
+          "sequence": "CGS",
+          "count": 68
+        },
+        {
+          "sequence": "SSC",
+          "count": 68
+        },
+        {
+          "sequence": "CGT",
+          "count": 67
+        },
+        {
+          "sequence": "CGG",
+          "count": 67
+        },
+        {
+          "sequence": "CAI",
+          "count": 67
+        },
+        {
+          "sequence": "CGL",
+          "count": 66
+        },
+        {
+          "sequence": "CQC",
+          "count": 66
+        },
+        {
+          "sequence": "QCC",
+          "count": 66
+        },
+        {
+          "sequence": "CIL",
+          "count": 65
+        },
+        {
+          "sequence": "CTA",
+          "count": 65
+        },
+        {
+          "sequence": "CLL",
+          "count": 64
+        },
+        {
+          "sequence": "CLG",
+          "count": 64
+        },
+        {
+          "sequence": "CIG",
+          "count": 64
+        },
+        {
+          "sequence": "CLI",
+          "count": 64
+        },
+        {
+          "sequence": "CAY",
+          "count": 64
+        },
+        {
+          "sequence": "SSG",
+          "count": 63
+        },
+        {
+          "sequence": "CTD",
+          "count": 63
+        },
+        {
+          "sequence": "CYG",
+          "count": 62
+        },
+        {
+          "sequence": "CYL",
+          "count": 62
+        },
+        {
+          "sequence": "CFG",
+          "count": 62
+        },
+        {
+          "sequence": "CTS",
+          "count": 61
+        },
+        {
+          "sequence": "CTG",
+          "count": 61
+        },
+        {
+          "sequence": "VCC",
+          "count": 61
+        },
+        {
+          "sequence": "ELC",
+          "count": 61
+        },
+        {
+          "sequence": "CGV",
+          "count": 60
+        },
+        {
+          "sequence": "CFL",
+          "count": 59
+        },
+        {
+          "sequence": "CAV",
+          "count": 59
+        },
+        {
+          "sequence": "ACA",
+          "count": 59
+        },
+        {
+          "sequence": "CQE",
+          "count": 58
+        },
+        {
+          "sequence": "YCC",
+          "count": 58
+        },
+        {
+          "sequence": "SCL",
+          "count": 58
+        },
+        {
+          "sequence": "LCA",
+          "count": 58
+        }
+      ],
+      "total_kmers": 248348,
+      "unique_kmers": 6002
+    },
+    "combined_position": {
+      "motifs": [
+        {
+          "position": 0,
+          "amino_acid": "C",
+          "frequency": 1.0,
+          "count": 6050
+        }
+      ],
+      "max_length": 20,
+      "positions_analyzed": 20
+    },
+    "combined_physicochemical": {
+      "motifs": [
+        {
+          "pattern": "PPP",
+          "count": 10597
+        },
+        {
+          "pattern": "PPH",
+          "count": 7829
+        },
+        {
+          "pattern": "PHP",
+          "count": 7817
+        },
+        {
+          "pattern": "HPP",
+          "count": 6650
+        },
+        {
+          "pattern": "PHH",
+          "count": 6063
+        },
+        {
+          "pattern": "HHP",
+          "count": 5278
+        },
+        {
+          "pattern": "PPPP",
+          "count": 5041
+        },
+        {
+          "pattern": "HPH",
+          "count": 4906
+        },
+        {
+          "pattern": "HHH",
+          "count": 3732
+        },
+        {
+          "pattern": "PPHP",
+          "count": 3678
+        },
+        {
+          "pattern": "PPPH",
+          "count": 3662
+        },
+        {
+          "pattern": "PHPP",
+          "count": 3599
+        },
+        {
+          "pattern": "HPPP",
+          "count": 3080
+        },
+        {
+          "pattern": "PHHP",
+          "count": 3002
+        },
+        {
+          "pattern": "PPHH",
+          "count": 2836
+        },
+        {
+          "pattern": "PHPH",
+          "count": 2653
+        },
+        {
+          "pattern": "HHPP",
+          "count": 2418
+        },
+        {
+          "pattern": "PPPPP",
+          "count": 2409
+        },
+        {
+          "pattern": "HPHP",
+          "count": 2286
+        },
+        {
+          "pattern": "HPPH",
+          "count": 2236
+        },
+        {
+          "pattern": "PNP",
+          "count": 2213
+        },
+        {
+          "pattern": "PHHH",
+          "count": 2094
+        },
+        {
+          "pattern": "PPN",
+          "count": 1884
+        },
+        {
+          "pattern": "HHPH",
+          "count": 1786
+        },
+        {
+          "pattern": "HPHH",
+          "count": 1778
+        },
+        {
+          "pattern": "HHHP",
+          "count": 1775
+        },
+        {
+          "pattern": "PPPHP",
+          "count": 1725
+        },
+        {
+          "pattern": "PPHPP",
+          "count": 1700
+        },
+        {
+          "pattern": "PPPPH",
+          "count": 1690
+        },
+        {
+          "pattern": "NPP",
+          "count": 1678
+        }
+      ],
+      "unique_patterns": 4431
+    },
+    "control_kmer": {
+      "motifs": [
+        {
+          "sequence": "CCC",
+          "count": 191
+        },
+        {
+          "sequence": "NEQ",
+          "count": 165
+        },
+        {
+          "sequence": "YNE",
+          "count": 163
+        },
+        {
+          "sequence": "YNEQ",
+          "count": 163
+        },
+        {
+          "sequence": "GEL",
+          "count": 159
+        },
+        {
+          "sequence": "SGG",
+          "count": 158
+        },
+        {
+          "sequence": "VAG",
+          "count": 158
+        },
+        {
+          "sequence": "ETQ",
+          "count": 152
+        },
+        {
+          "sequence": "QET",
+          "count": 150
+        },
+        {
+          "sequence": "QETQ",
+          "count": 149
+        },
+        {
+          "sequence": "ASS",
+          "count": 137
+        },
+        {
+          "sequence": "TDT",
+          "count": 134
+        },
+        {
+          "sequence": "CCS",
+          "count": 106
+        },
+        {
+          "sequence": "CCA",
+          "count": 102
+        },
+        {
+          "sequence": "CLC",
+          "count": 100
+        },
+        {
+          "sequence": "CAC",
+          "count": 92
+        },
+        {
+          "sequence": "CSC",
+          "count": 90
+        },
+        {
+          "sequence": "CCT",
+          "count": 87
+        },
+        {
+          "sequence": "CCG",
+          "count": 86
+        },
+        {
+          "sequence": "CGC",
+          "count": 83
+        },
+        {
+          "sequence": "CCL",
+          "count": 79
+        },
+        {
+          "sequence": "CCI",
+          "count": 77
+        },
+        {
+          "sequence": "CVC",
+          "count": 76
+        },
+        {
+          "sequence": "CIC",
+          "count": 74
+        },
+        {
+          "sequence": "CTC",
+          "count": 71
+        },
+        {
+          "sequence": "CSG",
+          "count": 71
+        },
+        {
+          "sequence": "CCV",
+          "count": 68
+        },
+        {
+          "sequence": "CCY",
+          "count": 65
+        },
+        {
+          "sequence": "LCC",
+          "count": 61
+        },
+        {
+          "sequence": "CAA",
+          "count": 61
+        },
+        {
+          "sequence": "CYC",
+          "count": 60
+        },
+        {
+          "sequence": "CCR",
+          "count": 59
+        },
+        {
+          "sequence": "TCC",
+          "count": 58
+        },
+        {
+          "sequence": "CCE",
+          "count": 58
+        },
+        {
+          "sequence": "CAS",
+          "count": 57
+        },
+        {
+          "sequence": "CVA",
+          "count": 55
+        },
+        {
+          "sequence": "CTL",
+          "count": 54
+        },
+        {
+          "sequence": "ACC",
+          "count": 54
+        },
+        {
+          "sequence": "CCQ",
+          "count": 53
+        },
+        {
+          "sequence": "CCK",
+          "count": 53
+        },
+        {
+          "sequence": "CAL",
+          "count": 53
+        },
+        {
+          "sequence": "CCF",
+          "count": 53
+        },
+        {
+          "sequence": "CLV",
+          "count": 52
+        },
+        {
+          "sequence": "SCC",
+          "count": 52
+        },
+        {
+          "sequence": "CCD",
+          "count": 51
+        },
+        {
+          "sequence": "FCC",
+          "count": 51
+        },
+        {
+          "sequence": "CGA",
+          "count": 50
+        },
+        {
+          "sequence": "CSL",
+          "count": 50
+        },
+        {
+          "sequence": "ICC",
+          "count": 50
+        },
+        {
+          "sequence": "CCN",
+          "count": 49
+        }
+      ],
+      "total_kmers": 155316,
+      "unique_kmers": 3619
+    },
+    "diseased_kmer": {
+      "motifs": [
+        {
+          "sequence": "CCC",
+          "count": 128
+        },
+        {
+          "sequence": "GEL",
+          "count": 114
+        },
+        {
+          "sequence": "SGG",
+          "count": 111
+        },
+        {
+          "sequence": "TDT",
+          "count": 107
+        },
+        {
+          "sequence": "VAG",
+          "count": 107
+        },
+        {
+          "sequence": "QET",
+          "count": 104
+        },
+        {
+          "sequence": "ETQ",
+          "count": 101
+        },
+        {
+          "sequence": "QETQ",
+          "count": 97
+        },
+        {
+          "sequence": "ASS",
+          "count": 95
+        },
+        {
+          "sequence": "YNE",
+          "count": 94
+        },
+        {
+          "sequence": "NEQ",
+          "count": 92
+        },
+        {
+          "sequence": "YNEQ",
+          "count": 90
+        },
+        {
+          "sequence": "CSC",
+          "count": 70
+        },
+        {
+          "sequence": "CLC",
+          "count": 70
+        },
+        {
+          "sequence": "CCA",
+          "count": 68
+        },
+        {
+          "sequence": "CAC",
+          "count": 62
+        },
+        {
+          "sequence": "CCS",
+          "count": 60
+        },
+        {
+          "sequence": "CGC",
+          "count": 58
+        },
+        {
+          "sequence": "CCL",
+          "count": 57
+        },
+        {
+          "sequence": "CCY",
+          "count": 55
+        },
+        {
+          "sequence": "CCF",
+          "count": 52
+        },
+        {
+          "sequence": "CCG",
+          "count": 51
+        },
+        {
+          "sequence": "CFC",
+          "count": 51
+        },
+        {
+          "sequence": "CTC",
+          "count": 51
+        },
+        {
+          "sequence": "CNC",
+          "count": 49
+        },
+        {
+          "sequence": "CCT",
+          "count": 49
+        },
+        {
+          "sequence": "CSG",
+          "count": 47
+        },
+        {
+          "sequence": "CAA",
+          "count": 46
+        },
+        {
+          "sequence": "CIC",
+          "count": 46
+        },
+        {
+          "sequence": "CYC",
+          "count": 45
+        },
+        {
+          "sequence": "CAS",
+          "count": 45
+        },
+        {
+          "sequence": "SCC",
+          "count": 43
+        },
+        {
+          "sequence": "AGC",
+          "count": 43
+        },
+        {
+          "sequence": "CCI",
+          "count": 42
+        },
+        {
+          "sequence": "CCV",
+          "count": 42
+        },
+        {
+          "sequence": "CCN",
+          "count": 40
+        },
+        {
+          "sequence": "ACC",
+          "count": 39
+        },
+        {
+          "sequence": "GGC",
+          "count": 39
+        },
+        {
+          "sequence": "CVC",
+          "count": 39
+        },
+        {
+          "sequence": "CCQ",
+          "count": 38
+        },
+        {
+          "sequence": "CKC",
+          "count": 37
+        },
+        {
+          "sequence": "CLV",
+          "count": 37
+        },
+        {
+          "sequence": "CAL",
+          "count": 36
+        },
+        {
+          "sequence": "CEC",
+          "count": 36
+        },
+        {
+          "sequence": "CIA",
+          "count": 36
+        },
+        {
+          "sequence": "LCC",
+          "count": 35
+        },
+        {
+          "sequence": "GCC",
+          "count": 35
+        },
+        {
+          "sequence": "CSL",
+          "count": 35
+        },
+        {
+          "sequence": "CCK",
+          "count": 35
+        },
+        {
+          "sequence": "CCE",
+          "count": 34
+        }
+      ],
+      "total_kmers": 108669,
+      "unique_kmers": 2276
+    },
+    "differential_motifs": {
+      "motifs": [
+        {
+          "motif": "HCT",
+          "control_count": 10,
+          "diseased_count": 0,
+          "fold_change": 0.09090909090909091,
+          "log2_fold_change": -3.4594316186372973,
+          "direction": "control"
+        },
+        {
+          "motif": "QQI",
+          "control_count": 10,
+          "diseased_count": 0,
+          "fold_change": 0.09090909090909091,
+          "log2_fold_change": -3.4594316186372973,
+          "direction": "control"
+        },
+        {
+          "motif": "GPC",
+          "control_count": 10,
+          "diseased_count": 0,
+          "fold_change": 0.09090909090909091,
+          "log2_fold_change": -3.4594316186372973,
+          "direction": "control"
+        },
+        {
+          "motif": "YVR",
+          "control_count": 10,
+          "diseased_count": 0,
+          "fold_change": 0.09090909090909091,
+          "log2_fold_change": -3.4594316186372973,
+          "direction": "control"
+        },
+        {
+          "motif": "TCCC",
+          "control_count": 10,
+          "diseased_count": 0,
+          "fold_change": 0.09090909090909091,
+          "log2_fold_change": -3.4594316186372973,
+          "direction": "control"
+        },
+        {
+          "motif": "IQN",
+          "control_count": 9,
+          "diseased_count": 0,
+          "fold_change": 0.1,
+          "log2_fold_change": -3.321928094887362,
+          "direction": "control"
+        },
+        {
+          "motif": "QSQ",
+          "control_count": 9,
+          "diseased_count": 0,
+          "fold_change": 0.1,
+          "log2_fold_change": -3.321928094887362,
+          "direction": "control"
+        },
+        {
+          "motif": "RFG",
+          "control_count": 9,
+          "diseased_count": 0,
+          "fold_change": 0.1,
+          "log2_fold_change": -3.321928094887362,
+          "direction": "control"
+        },
+        {
+          "motif": "CSCY",
+          "control_count": 8,
+          "diseased_count": 0,
+          "fold_change": 0.1111111111111111,
+          "log2_fold_change": -3.1699250014423126,
+          "direction": "control"
+        },
+        {
+          "motif": "WCG",
+          "control_count": 8,
+          "diseased_count": 0,
+          "fold_change": 0.1111111111111111,
+          "log2_fold_change": -3.1699250014423126,
+          "direction": "control"
+        },
+        {
+          "motif": "PIC",
+          "control_count": 8,
+          "diseased_count": 0,
+          "fold_change": 0.1111111111111111,
+          "log2_fold_change": -3.1699250014423126,
+          "direction": "control"
+        },
+        {
+          "motif": "MSY",
+          "control_count": 8,
+          "diseased_count": 0,
+          "fold_change": 0.1111111111111111,
+          "log2_fold_change": -3.1699250014423126,
+          "direction": "control"
+        },
+        {
+          "motif": "GRD",
+          "control_count": 8,
+          "diseased_count": 0,
+          "fold_change": 0.1111111111111111,
+          "log2_fold_change": -3.1699250014423126,
+          "direction": "control"
+        },
+        {
+          "motif": "MYI",
+          "control_count": 8,
+          "diseased_count": 0,
+          "fold_change": 0.1111111111111111,
+          "log2_fold_change": -3.1699250014423126,
+          "direction": "control"
+        },
+        {
+          "motif": "DCD",
+          "control_count": 8,
+          "diseased_count": 0,
+          "fold_change": 0.1111111111111111,
+          "log2_fold_change": -3.1699250014423126,
+          "direction": "control"
+        },
+        {
+          "motif": "YQG",
+          "control_count": 8,
+          "diseased_count": 0,
+          "fold_change": 0.1111111111111111,
+          "log2_fold_change": -3.1699250014423126,
+          "direction": "control"
+        },
+        {
+          "motif": "CCLI",
+          "control_count": 0,
+          "diseased_count": 8,
+          "fold_change": 9,
+          "log2_fold_change": 3.169925001442312,
+          "direction": "diseased"
+        },
+        {
+          "motif": "GTCV",
+          "control_count": 7,
+          "diseased_count": 0,
+          "fold_change": 0.125,
+          "log2_fold_change": -3.0,
+          "direction": "control"
+        },
+        {
+          "motif": "FSN",
+          "control_count": 7,
+          "diseased_count": 0,
+          "fold_change": 0.125,
+          "log2_fold_change": -3.0,
+          "direction": "control"
+        },
+        {
+          "motif": "TGCS",
+          "control_count": 7,
+          "diseased_count": 0,
+          "fold_change": 0.125,
+          "log2_fold_change": -3.0,
+          "direction": "control"
+        },
+        {
+          "motif": "VET",
+          "control_count": 7,
+          "diseased_count": 0,
+          "fold_change": 0.125,
+          "log2_fold_change": -3.0,
+          "direction": "control"
+        },
+        {
+          "motif": "CSCF",
+          "control_count": 7,
+          "diseased_count": 0,
+          "fold_change": 0.125,
+          "log2_fold_change": -3.0,
+          "direction": "control"
+        },
+        {
+          "motif": "YLD",
+          "control_count": 7,
+          "diseased_count": 0,
+          "fold_change": 0.125,
+          "log2_fold_change": -3.0,
+          "direction": "control"
+        },
+        {
+          "motif": "NHC",
+          "control_count": 7,
+          "diseased_count": 0,
+          "fold_change": 0.125,
+          "log2_fold_change": -3.0,
+          "direction": "control"
+        },
+        {
+          "motif": "LSSG",
+          "control_count": 0,
+          "diseased_count": 7,
+          "fold_change": 8,
+          "log2_fold_change": 3.0,
+          "direction": "diseased"
+        },
+        {
+          "motif": "GHQ",
+          "control_count": 7,
+          "diseased_count": 0,
+          "fold_change": 0.125,
+          "log2_fold_change": -3.0,
+          "direction": "control"
+        },
+        {
+          "motif": "NIR",
+          "control_count": 0,
+          "diseased_count": 7,
+          "fold_change": 8,
+          "log2_fold_change": 3.0,
+          "direction": "diseased"
+        },
+        {
+          "motif": "PLI",
+          "control_count": 7,
+          "diseased_count": 0,
+          "fold_change": 0.125,
+          "log2_fold_change": -3.0,
+          "direction": "control"
+        },
+        {
+          "motif": "VSW",
+          "control_count": 7,
+          "diseased_count": 0,
+          "fold_change": 0.125,
+          "log2_fold_change": -3.0,
+          "direction": "control"
+        },
+        {
+          "motif": "DRT",
+          "control_count": 7,
+          "diseased_count": 0,
+          "fold_change": 0.125,
+          "log2_fold_change": -3.0,
+          "direction": "control"
+        },
+        {
+          "motif": "CGAT",
+          "control_count": 7,
+          "diseased_count": 0,
+          "fold_change": 0.125,
+          "log2_fold_change": -3.0,
+          "direction": "control"
+        },
+        {
+          "motif": "QTY",
+          "control_count": 7,
+          "diseased_count": 0,
+          "fold_change": 0.125,
+          "log2_fold_change": -3.0,
+          "direction": "control"
+        },
+        {
+          "motif": "QSGG",
+          "control_count": 7,
+          "diseased_count": 0,
+          "fold_change": 0.125,
+          "log2_fold_change": -3.0,
+          "direction": "control"
+        },
+        {
+          "motif": "RTI",
+          "control_count": 7,
+          "diseased_count": 0,
+          "fold_change": 0.125,
+          "log2_fold_change": -3.0,
+          "direction": "control"
+        },
+        {
+          "motif": "FCCS",
+          "control_count": 7,
+          "diseased_count": 0,
+          "fold_change": 0.125,
+          "log2_fold_change": -3.0,
+          "direction": "control"
+        },
+        {
+          "motif": "RIK",
+          "control_count": 6,
+          "diseased_count": 0,
+          "fold_change": 0.14285714285714285,
+          "log2_fold_change": -2.807354922057604,
+          "direction": "control"
+        },
+        {
+          "motif": "QQR",
+          "control_count": 6,
+          "diseased_count": 0,
+          "fold_change": 0.14285714285714285,
+          "log2_fold_change": -2.807354922057604,
+          "direction": "control"
+        },
+        {
+          "motif": "MQE",
+          "control_count": 6,
+          "diseased_count": 0,
+          "fold_change": 0.14285714285714285,
+          "log2_fold_change": -2.807354922057604,
+          "direction": "control"
+        },
+        {
+          "motif": "CVCF",
+          "control_count": 6,
+          "diseased_count": 0,
+          "fold_change": 0.14285714285714285,
+          "log2_fold_change": -2.807354922057604,
+          "direction": "control"
+        },
+        {
+          "motif": "ENK",
+          "control_count": 6,
+          "diseased_count": 0,
+          "fold_change": 0.14285714285714285,
+          "log2_fold_change": -2.807354922057604,
+          "direction": "control"
+        },
+        {
+          "motif": "CGYC",
+          "control_count": 6,
+          "diseased_count": 0,
+          "fold_change": 0.14285714285714285,
+          "log2_fold_change": -2.807354922057604,
+          "direction": "control"
+        },
+        {
+          "motif": "CSSK",
+          "control_count": 6,
+          "diseased_count": 0,
+          "fold_change": 0.14285714285714285,
+          "log2_fold_change": -2.807354922057604,
+          "direction": "control"
+        },
+        {
+          "motif": "QVAC",
+          "control_count": 6,
+          "diseased_count": 0,
+          "fold_change": 0.14285714285714285,
+          "log2_fold_change": -2.807354922057604,
+          "direction": "control"
+        },
+        {
+          "motif": "RQR",
+          "control_count": 6,
+          "diseased_count": 0,
+          "fold_change": 0.14285714285714285,
+          "log2_fold_change": -2.807354922057604,
+          "direction": "control"
+        },
+        {
+          "motif": "GLP",
+          "control_count": 6,
+          "diseased_count": 0,
+          "fold_change": 0.14285714285714285,
+          "log2_fold_change": -2.807354922057604,
+          "direction": "control"
+        },
+        {
+          "motif": "CACD",
+          "control_count": 6,
+          "diseased_count": 0,
+          "fold_change": 0.14285714285714285,
+          "log2_fold_change": -2.807354922057604,
+          "direction": "control"
+        },
+        {
+          "motif": "RCTC",
+          "control_count": 6,
+          "diseased_count": 0,
+          "fold_change": 0.14285714285714285,
+          "log2_fold_change": -2.807354922057604,
+          "direction": "control"
+        },
+        {
+          "motif": "HCR",
+          "control_count": 6,
+          "diseased_count": 0,
+          "fold_change": 0.14285714285714285,
+          "log2_fold_change": -2.807354922057604,
+          "direction": "control"
+        },
+        {
+          "motif": "GCTL",
+          "control_count": 6,
+          "diseased_count": 0,
+          "fold_change": 0.14285714285714285,
+          "log2_fold_change": -2.807354922057604,
+          "direction": "control"
+        },
+        {
+          "motif": "CLSY",
+          "control_count": 6,
+          "diseased_count": 0,
+          "fold_change": 0.14285714285714285,
+          "log2_fold_change": -2.807354922057604,
+          "direction": "control"
+        }
+      ],
+      "total_motifs_tested": 103172
+    }
+  }
+}

@@ -1,0 +1,663 @@
+{
+  "random_forest": {
+    "model_name": "random_forest",
+    "model": "Pipeline(steps=[('scaler', StandardScaler()),\n                ('model', RandomForestClassifier(random_state=42))])",
+    "train_accuracy": 1.0,
+    "train_f1": 1.0,
+    "test_accuracy": 1.0,
+    "test_precision": 1.0,
+    "test_recall": 1.0,
+    "test_f1": 1.0,
+    "test_auc": 1.0,
+    "cv_scores": [],
+    "cv_mean": NaN,
+    "cv_std": NaN,
+    "classification_report": {
+      "0": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1.0
+      },
+      "1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 2.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 2.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "roc_curve": {
+      "fpr": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "tpr": [
+        0.0,
+        1.0,
+        1.0
+      ]
+    },
+    "feature_names": [
+      "clone_n_unique_cdr3",
+      "vj_pair_diversity_x",
+      "v_entropy",
+      "j_entropy",
+      "length_length_mean",
+      "length_length_std",
+      "top_kmer_1_freq",
+      "n_consensus_motifs",
+      "total_reads",
+      "reads_per_clone"
+    ]
+  },
+  "gradient_boosting": {
+    "model_name": "gradient_boosting",
+    "model": "Pipeline(steps=[('scaler', StandardScaler()),\n                ('model', GradientBoostingClassifier(random_state=42))])",
+    "train_accuracy": 1.0,
+    "train_f1": 1.0,
+    "test_accuracy": 1.0,
+    "test_precision": 1.0,
+    "test_recall": 1.0,
+    "test_f1": 1.0,
+    "test_auc": 1.0,
+    "cv_scores": [],
+    "cv_mean": NaN,
+    "cv_std": NaN,
+    "classification_report": {
+      "0": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1.0
+      },
+      "1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 2.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 2.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "roc_curve": {
+      "fpr": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "tpr": [
+        0.0,
+        1.0,
+        1.0
+      ]
+    },
+    "feature_names": [
+      "clone_n_unique_cdr3",
+      "vj_pair_diversity_x",
+      "v_entropy",
+      "j_entropy",
+      "length_length_mean",
+      "length_length_std",
+      "top_kmer_1_freq",
+      "n_consensus_motifs",
+      "total_reads",
+      "reads_per_clone"
+    ]
+  },
+  "svm": {
+    "model_name": "svm",
+    "model": "Pipeline(steps=[('scaler', StandardScaler()),\n                ('model', SVC(probability=True, random_state=42))])",
+    "train_accuracy": 1.0,
+    "train_f1": 1.0,
+    "test_accuracy": 1.0,
+    "test_precision": 1.0,
+    "test_recall": 1.0,
+    "test_f1": 1.0,
+    "test_auc": 0.0,
+    "cv_scores": [],
+    "cv_mean": NaN,
+    "cv_std": NaN,
+    "classification_report": {
+      "0": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1.0
+      },
+      "1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 2.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 2.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "roc_curve": {
+      "fpr": [
+        0.0,
+        1.0,
+        1.0
+      ],
+      "tpr": [
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    "feature_names": [
+      "clone_n_unique_cdr3",
+      "vj_pair_diversity_x",
+      "v_entropy",
+      "j_entropy",
+      "length_length_mean",
+      "length_length_std",
+      "top_kmer_1_freq",
+      "n_consensus_motifs",
+      "total_reads",
+      "reads_per_clone"
+    ]
+  },
+  "logistic_regression": {
+    "model_name": "logistic_regression",
+    "model": "Pipeline(steps=[('scaler', StandardScaler()),\n                ('model', LogisticRegression(max_iter=1000, random_state=42))])",
+    "train_accuracy": 1.0,
+    "train_f1": 1.0,
+    "test_accuracy": 1.0,
+    "test_precision": 1.0,
+    "test_recall": 1.0,
+    "test_f1": 1.0,
+    "test_auc": 1.0,
+    "cv_scores": [],
+    "cv_mean": NaN,
+    "cv_std": NaN,
+    "classification_report": {
+      "0": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1.0
+      },
+      "1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 2.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 2.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "roc_curve": {
+      "fpr": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "tpr": [
+        0.0,
+        1.0,
+        1.0
+      ]
+    },
+    "feature_names": [
+      "clone_n_unique_cdr3",
+      "vj_pair_diversity_x",
+      "v_entropy",
+      "j_entropy",
+      "length_length_mean",
+      "length_length_std",
+      "top_kmer_1_freq",
+      "n_consensus_motifs",
+      "total_reads",
+      "reads_per_clone"
+    ]
+  },
+  "knn": {
+    "error": "Expected n_neighbors <= n_samples_fit, but n_neighbors = 5, n_samples_fit = 4, n_samples = 4"
+  },
+  "decision_tree": {
+    "model_name": "decision_tree",
+    "model": "Pipeline(steps=[('scaler', StandardScaler()),\n                ('model', DecisionTreeClassifier(random_state=42))])",
+    "train_accuracy": 1.0,
+    "train_f1": 1.0,
+    "test_accuracy": 0.5,
+    "test_precision": 0.0,
+    "test_recall": 0.0,
+    "test_f1": 0.0,
+    "test_auc": 0.5,
+    "cv_scores": [],
+    "cv_mean": NaN,
+    "cv_std": NaN,
+    "classification_report": {
+      "0": {
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1-score": 0.6666666666666666,
+        "support": 1.0
+      },
+      "1": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 1.0
+      },
+      "accuracy": 0.5,
+      "macro avg": {
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1-score": 0.3333333333333333,
+        "support": 2.0
+      },
+      "weighted avg": {
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1-score": 0.3333333333333333,
+        "support": 2.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "roc_curve": {
+      "fpr": [
+        0.0,
+        1.0
+      ],
+      "tpr": [
+        0.0,
+        1.0
+      ]
+    },
+    "feature_names": [
+      "clone_n_unique_cdr3",
+      "vj_pair_diversity_x",
+      "v_entropy",
+      "j_entropy",
+      "length_length_mean",
+      "length_length_std",
+      "top_kmer_1_freq",
+      "n_consensus_motifs",
+      "total_reads",
+      "reads_per_clone"
+    ]
+  },
+  "naive_bayes": {
+    "model_name": "naive_bayes",
+    "model": "Pipeline(steps=[('scaler', StandardScaler()), ('model', GaussianNB())])",
+    "train_accuracy": 1.0,
+    "train_f1": 1.0,
+    "test_accuracy": 0.5,
+    "test_precision": 0.5,
+    "test_recall": 1.0,
+    "test_f1": 0.6666666666666666,
+    "test_auc": 0.5,
+    "cv_scores": [],
+    "cv_mean": NaN,
+    "cv_std": NaN,
+    "classification_report": {
+      "0": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 1.0
+      },
+      "1": {
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1-score": 0.6666666666666666,
+        "support": 1.0
+      },
+      "accuracy": 0.5,
+      "macro avg": {
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1-score": 0.3333333333333333,
+        "support": 2.0
+      },
+      "weighted avg": {
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1-score": 0.3333333333333333,
+        "support": 2.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "roc_curve": {
+      "fpr": [
+        0.0,
+        1.0
+      ],
+      "tpr": [
+        0.0,
+        1.0
+      ]
+    },
+    "feature_names": [
+      "clone_n_unique_cdr3",
+      "vj_pair_diversity_x",
+      "v_entropy",
+      "j_entropy",
+      "length_length_mean",
+      "length_length_std",
+      "top_kmer_1_freq",
+      "n_consensus_motifs",
+      "total_reads",
+      "reads_per_clone"
+    ]
+  },
+  "ada_boost": {
+    "model_name": "ada_boost",
+    "model": "Pipeline(steps=[('scaler', StandardScaler()),\n                ('model', AdaBoostClassifier(random_state=42))])",
+    "train_accuracy": 1.0,
+    "train_f1": 1.0,
+    "test_accuracy": 0.5,
+    "test_precision": 0.0,
+    "test_recall": 0.0,
+    "test_f1": 0.0,
+    "test_auc": 0.5,
+    "cv_scores": [],
+    "cv_mean": NaN,
+    "cv_std": NaN,
+    "classification_report": {
+      "0": {
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1-score": 0.6666666666666666,
+        "support": 1.0
+      },
+      "1": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 1.0
+      },
+      "accuracy": 0.5,
+      "macro avg": {
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1-score": 0.3333333333333333,
+        "support": 2.0
+      },
+      "weighted avg": {
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1-score": 0.3333333333333333,
+        "support": 2.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "roc_curve": {
+      "fpr": [
+        0.0,
+        1.0
+      ],
+      "tpr": [
+        0.0,
+        1.0
+      ]
+    },
+    "feature_names": [
+      "clone_n_unique_cdr3",
+      "vj_pair_diversity_x",
+      "v_entropy",
+      "j_entropy",
+      "length_length_mean",
+      "length_length_std",
+      "top_kmer_1_freq",
+      "n_consensus_motifs",
+      "total_reads",
+      "reads_per_clone"
+    ]
+  },
+  "ridge": {
+    "model_name": "ridge",
+    "model": "Pipeline(steps=[('scaler', StandardScaler()),\n                ('model', RidgeClassifier(random_state=42))])",
+    "train_accuracy": 1.0,
+    "train_f1": 1.0,
+    "test_accuracy": 1.0,
+    "test_precision": 1.0,
+    "test_recall": 1.0,
+    "test_f1": 1.0,
+    "test_auc": null,
+    "cv_scores": [],
+    "cv_mean": NaN,
+    "cv_std": NaN,
+    "classification_report": {
+      "0": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1.0
+      },
+      "1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 2.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 2.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "feature_names": [
+      "clone_n_unique_cdr3",
+      "vj_pair_diversity_x",
+      "v_entropy",
+      "j_entropy",
+      "length_length_mean",
+      "length_length_std",
+      "top_kmer_1_freq",
+      "n_consensus_motifs",
+      "total_reads",
+      "reads_per_clone"
+    ]
+  },
+  "mlp": {
+    "model_name": "mlp",
+    "model": "Pipeline(steps=[('scaler', StandardScaler()),\n                ('model', MLPClassifier(max_iter=1000, random_state=42))])",
+    "train_accuracy": 1.0,
+    "train_f1": 1.0,
+    "test_accuracy": 1.0,
+    "test_precision": 1.0,
+    "test_recall": 1.0,
+    "test_f1": 1.0,
+    "test_auc": 1.0,
+    "cv_scores": [],
+    "cv_mean": NaN,
+    "cv_std": NaN,
+    "classification_report": {
+      "0": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1.0
+      },
+      "1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 2.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 2.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "roc_curve": {
+      "fpr": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "tpr": [
+        0.0,
+        1.0,
+        1.0
+      ]
+    },
+    "feature_names": [
+      "clone_n_unique_cdr3",
+      "vj_pair_diversity_x",
+      "v_entropy",
+      "j_entropy",
+      "length_length_mean",
+      "length_length_std",
+      "top_kmer_1_freq",
+      "n_consensus_motifs",
+      "total_reads",
+      "reads_per_clone"
+    ]
+  },
+  "best_model": null
+}

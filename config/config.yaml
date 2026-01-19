@@ -1,0 +1,28 @@
+preprocessing:
+  min_read_count: 1
+  max_cdr3_length: 30
+  min_cdr3_length: 5
+
+clone_analysis:
+  definition: exact
+  min_clone_size: 2
+  similarity_threshold: 0.8
+
+motif_discovery:
+  min_motif_length: 3
+  max_motif_length: 8
+  min_motif_frequency: 5
+  n_topics: 10
+
+ml:
+  test_size: 0.2
+  cv_folds: 5
+  random_state: 42
+  scaler: standard
+  feature_selector: none
+  remove_correlated: true
+
+visualization:
+  figsize: [10, 6]
+  dpi: 300
+  color_palette: Set2
